@@ -10,7 +10,7 @@
 			"name": "Users",
 			"item": [
 				{
-					"name": "Register user - done",
+					"name": "Register user",
 					"event": [
 						{
 							"listen": "test",
@@ -190,7 +190,7 @@
 					"response": []
 				},
 				{
-					"name": "Update profile - works",
+					"name": "Update profile",
 					"event": [
 						{
 							"listen": "test",
@@ -346,7 +346,7 @@
 						"header": [],
 						"body": {
 							"mode": "raw",
-							"raw": "{\r\n  \"content\": \"API post creation .!.\",\r\n  \"picture\": \"\"\r\n}",
+							"raw": "{\r\n  \"content\": \"API post creation .!.\",\r\n  \"picture\": \"\",\r\n  \"public\": true\r\n}",
 							"options": {
 								"raw": {
 									"language": "json"

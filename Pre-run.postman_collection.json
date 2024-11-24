@@ -134,7 +134,7 @@
 			"response": []
 		},
 		{
-			"name": "Create post - done",
+			"name": "Create post",
 			"event": [
 				{
 					"listen": "prerequest",
@@ -179,7 +179,7 @@
 				"header": [],
 				"body": {
 					"mode": "raw",
-					"raw": "{\r\n  \"content\": \"{{content}}\",\r\n  \"picture\": \"{{picture}}\"\r\n}",
+					"raw": "{\r\n  \"content\": \"{{content}}\",\r\n  \"picture\": \"{{picture}}\",\r\n  \"public\": true\r\n}",
 					"options": {
 						"raw": {
 							"language": "json"

@@ -1,5 +1,5 @@
-content,picture
-API post creation .!.,
-Another API post creation,http://example.com/image1.jpg
-Sample post with no picture,
-Final post with image,http://example.com/image2.jpg
+content,picture,public
+API post creation .!.,true
+Another API post creation,http://example.com/image1.jpg,true
+Sample post with no picture,true
+Final post with image,http://example.com/image2.jpg,true
