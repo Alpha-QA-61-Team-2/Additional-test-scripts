@@ -1,5 +1,0 @@
-username,email,password,confirmPassword,categoryId,categoryName,role
-admina,admin@mail.bg,123456,123456,110,Cleaner,ROLE_ADMIN
-milko,milko@mail.bg,123456,123456,111,Teacher,ROLE_USER
-olga,olga@mail.bg,123456,123456,112,Engineer,ROLE_USER
-martin,martina@mail.bg,123456,123456,112,Engineer,ROLE_USER
