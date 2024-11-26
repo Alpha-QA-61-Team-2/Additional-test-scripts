@@ -7,7 +7,8 @@ Ensure the following prerequisites are met before starting:
 •	• Tools: Node.js and npm installed (required for Newman and Testmo CLI).
 •	• Postman installed (optional, but useful for debugging).
 •	• Install Newman and Testmo CLI.
-2. Installation Steps
+DOWNLOAD ALL FILES IN A LOCAL FOLDER
+3. Installation Steps
 2.1 Install Node.js
 1. Download Node.js from the official website (https://nodejs.org/).
 2. Install Node.js, ensuring you check the option to add it to your system's PATH.
