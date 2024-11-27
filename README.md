@@ -198,3 +198,60 @@ echo Script completed successfully.
 ---
 
 This guide provides a comprehensive workflow for executing tests with Postman, Newman, and Testmo, ensuring a seamless integration and troubleshooting process.
+
+
+---
+
+## 7. Additional Automation Scripts
+
+This section outlines additional `.bat` scripts in the `Selenium_REST_Assured` folder and their functionalities, ordered for optimal execution.
+
+### 7.1 `Auto_script_Selenium.bat`
+
+This script automates Selenium-based test executions for your project.
+
+**Usage Steps**:
+
+1. Open Command Prompt.  
+2. Navigate to the `Selenium_REST_Assured` directory:  
+   ```bash
+   cd <path_to_Selenium_REST_Assured_directory>
+   ```
+3. Run the script:  
+   ```bash
+   Auto_script_Selenium.bat
+   ```
+
+### 7.2 `clean_xml.bat`
+
+This script cleans up XML result files, ensuring a fresh workspace for new test executions.
+
+**Usage Steps**:
+
+1. Open Command Prompt.  
+2. Navigate to the `Selenium_REST_Assured` directory:  
+   ```bash
+   cd <path_to_Selenium_REST_Assured_directory>
+   ```
+3. Execute the script:  
+   ```bash
+   clean_xml.bat
+   ```
+
+### 7.3 `Auto_script_Testmo.bat`
+
+This script automates Testmo-related tasks, including submitting test results or configurations.
+
+**Usage Steps**:
+
+1. Open Command Prompt.  
+2. Navigate to the `Selenium_REST_Assured` directory:  
+   ```bash
+   cd <path_to_Selenium_REST_Assured_directory>
+   ```
+3. Run the script:  
+   ```bash
+   Auto_script_Testmo.bat
+   ```
+
+---
